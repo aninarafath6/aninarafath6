@@ -32,3 +32,14 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
 <br/>
+
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/aninarafath6">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aninarafath6&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aninarafath6&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
