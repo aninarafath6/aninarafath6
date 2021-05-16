@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Redux, Next js, Firebase, etc.**
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/aninarafath6)
+- 👨‍💻 All of my projects are available at [github](https://github.com/aninarafath6?tab=repositories)
 
 - 💬 Ask me about **Javascript**
 
