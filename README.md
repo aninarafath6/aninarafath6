@@ -40,7 +40,7 @@
 <p align="center">
 <a href="https://github.com/aninarafath6">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aninarafath6&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aninarafath6&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aninarafath6&layout=compact&langs_count=8&theme=radical&hide_border"/>
 
 </a>
 </p>
