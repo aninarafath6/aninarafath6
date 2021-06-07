@@ -15,7 +15,7 @@
 ### 🛠 &nbsp;Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Dart](https://img.shields.io/badge/-Dart-3f51b5?style=for-the-badge&logo=dart&logoColor=ffffff)
+![Dart](http://img.shields.io/badge/-Dart%20Code-007ACC?style=for-the-badge&logo=dart&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-61DAFB?style=for-the-badge&logo=TypeScript&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
