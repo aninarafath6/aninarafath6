@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/aninarafath6?tab=repositories)
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Javascript, Flutter**
 
 - 📫 How to reach me **aninarafath786313@.com**
 
