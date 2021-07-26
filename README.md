@@ -2,7 +2,7 @@
 <h3 align="center">FULL satack web developer</h3>
 	
 
-- 🌱 I’m currently learning **Flutter , Provider, Getx, Firebase, etc.**
+- 🌱 I’m currently learning **Flutter , Getx, etc.**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/aninarafath6?tab=repositories)
 
