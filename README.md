@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anin Arafath</h1>
-<h3 align="center">FULL satack web developer</h3>
+<h3 align="center">Flutter developer</h3>
 	
 
 - 🌱 I’m currently learning **Flutter , Getx, etc.**
