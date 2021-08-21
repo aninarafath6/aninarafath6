@@ -2,6 +2,8 @@
 <h3 align="center">Flutter developer</h3>
 	
 
+- 👨‍💻 I'm 16 year old boy and +1 student.**
+
 - 🌱 I’m currently learning **Flutter , Provider, etc.**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/aninarafath6?tab=repositories)
