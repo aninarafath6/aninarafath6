@@ -2,7 +2,7 @@
 <h3 align="center">Flutter developer</h3>
 	
 
-- 👨‍💻 I'm 16 year old boy and +1 student.**
+- 👨‍💻 I'm 16 year old boy and +1 student.
 
 - 🌱 I’m currently learning **Flutter , Provider, etc.**
 
