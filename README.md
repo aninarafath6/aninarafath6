@@ -16,14 +16,13 @@
 ### A little more about me...  
 
 ```javascript
-const ashish = {
-  code: [Java, Golang, Dart, C, Python, JavaScript],
-  tools: [Flutter, Node, Docker, Django, Gin, Express],
-  architecture: ["microservices", "test-driven", "design system pattern", "domain driven development"],
-  techCommunities: {
+const Anin Arafath = {
+  skills: [Flutter, Node Js, React Js, Express,Html 5, css 3, Next js, Tailwind css],
+  tools: [Git, Linux, Vs Code,GitHub],
+<!--   techCommunities: {
          coorganizer: "Flutter-Kerala",
          member: "TinkerHub",
-  },
+  }, -->
  challenge: "a path on in-depth learning of system design"
 }
 ```
