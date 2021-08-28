@@ -20,7 +20,7 @@ const aninArafath = {
   name:'Anin Arafath',
   age:16,
   position:'Flutter Developer',
-  place:'Malappuram',
+  place:'Malappuram,India',
   skills: [Flutter, NodeJs, ReactJs, Express, Html5, css3, NextJs, TailwindCss],
   tools: [Git, Linux, Vs Code,GitHub],
   socialMedia:{
