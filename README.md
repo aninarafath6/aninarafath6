@@ -16,7 +16,7 @@
 ### A little more about me...  
 
 ```javascript
-const anin Arafath = {
+const aninArafath = {
   name:'Anin Arafath',
   age:16,
   position:'Flutter Developer',
