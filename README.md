@@ -17,9 +17,13 @@
 
 ```javascript
 const Anin Arafath = {
-  skills: [Flutter, Node Js, React Js, Express,Html 5, css 3, Next js, Tailwind css],
+  skills: [Flutter, NodeJs, ReactJs, Express, Html5, css3, NextJs, TailwindCss],
   tools: [Git, Linux, Vs Code,GitHub],
- challenge: "a path on in-depth learning of system design"
+  contact:{
+  email:'aninarafath786313@gmail.com',
+  phone:6282062527,
+  }
+
 }
 ```
 <!-- <p align="center">
