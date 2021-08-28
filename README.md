@@ -21,11 +21,8 @@ const Anin Arafath = {
   age:16,
   position:'Flutter Developer',
   place:'Malappuram',
-  // my skills
   skills: [Flutter, NodeJs, ReactJs, Express, Html5, css3, NextJs, TailwindCss],
-  // my tools
   tools: [Git, Linux, Vs Code,GitHub],
-  // social media links
   socialMedia:{
   linkedin:'https://www.linkedin.com/in/anin-arafath-32679720a/',
   instagram:'https://www.instagram.com/anin_arafath/',
