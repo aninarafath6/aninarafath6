@@ -17,8 +17,14 @@
 
 ```javascript
 const Anin Arafath = {
+  name:'Anin Arafath',
+  age:16,
+  position:'Flutter Developer',
+  place:'Malappuram',
   skills: [Flutter, NodeJs, ReactJs, Express, Html5, css3, NextJs, TailwindCss],
   tools: [Git, Linux, Vs Code,GitHub],
+
+### 🤝🏻 &nbsp;Connect with Me
   contact:{
   email:'aninarafath786313@gmail.com',
   phone:6282062527,
