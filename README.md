@@ -23,9 +23,8 @@ const Anin Arafath = {
   place:'Malappuram',
   skills: [Flutter, NodeJs, ReactJs, Express, Html5, css3, NextJs, TailwindCss],
   tools: [Git, Linux, Vs Code,GitHub],
-
-### 🤝🏻 &nbsp;Connect with Me
-  contact:{
+  // contact with me
+contact:{
   email:'aninarafath786313@gmail.com',
   phone:6282062527,
   }
