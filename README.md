@@ -27,6 +27,9 @@ const Anin Arafath = {
   tools: [Git, Linux, Vs Code,GitHub],
   // social media links
   socialMedia:{
+  linkedin:'https://www.linkedin.com/in/anin-arafath-32679720a/',
+  instagram:'https://www.instagram.com/anin_arafath/',
+  gitHub:'https://github.com/aninarafath6',
   }
   // contact with me
   contact:{
