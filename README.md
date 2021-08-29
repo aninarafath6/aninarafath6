@@ -44,6 +44,8 @@ const aninArafath = {
 </a>
 </p> -->
 
+<a href="https://app.daily.dev/anin"><img src="https://api.daily.dev/devcards/984fb0e0d4eb465ca48c7101b3eca485.png?r=6r7" width="400" alt="Anin Arafath's Dev Card"/></a>
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
