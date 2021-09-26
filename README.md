@@ -39,6 +39,18 @@ const aninArafath = {
 ```
 
 
+
+### My Stats
+
+<details>
+<summary>
+  <b>Github Stats</b>
+</summary>
+<p align="center"> <img alt="Anin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aninarafath6&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117"/>
+</details>
+
+
+
 <!-- ![](<a href="https://app.daily.dev/anin"><img src="https://api.daily.dev/devcards/984fb0e0d4eb465ca48c7101b3eca485.png?r=6r7" width="200" alt="Anin Arafath's Dev Card"/></a>) ![](<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aninarafath6&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>) -->
 
 ### 🤝🏻 &nbsp;Connect with Me
