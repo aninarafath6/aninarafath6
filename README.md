@@ -24,6 +24,7 @@ const aninArafath = {
   skills: [Flutter, NodeJs, ReactJs, Express, Html5, css3, NextJs, TailwindCss],
   tools: [Mac, Linux, Git, Vs Code,Android Studio, GitHub],
   stateManagemets:[Redux,Provider,Getx],
+  architecturs:[mvp,mvvm],
   socialMedia:{
   linkedin:'https://www.linkedin.com/in/anin-arafath-32679720a/',
   instagram:'https://www.instagram.com/anin_arafath/',
