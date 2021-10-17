@@ -4,7 +4,7 @@
 
 - 👨‍💻 I'm  +1 student.
 
-- 🌱 I’m currently learning **Flutter , Provider, etc.**
+- 🌱 I’m currently learning **clean architecture , bloc, etc.**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/aninarafath6?tab=repositories)
 
