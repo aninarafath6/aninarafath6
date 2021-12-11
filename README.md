@@ -2,17 +2,17 @@
 <h3 align="center">Flutter developer</h3>
 	
 
-- 👨‍💻 I'm  +1 student/youtuber.
+- 👨‍💻 I'm  +1 student / youtuber.
 
-- 🌱 I’m currently learning and teaching flutter
+- 🌱 I’m currently learning and teaching flutter.
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/aninarafath6?tab=repositories)
+- 👨‍💻 All of my projects are available at [github](https://github.com/aninarafath6?tab=repositories).
 
-- 📹 All of my youtube videos are available at [youtube](https://www.youtube.com/channel/UCdxNRY27z-3AWxYpCnF-ohA)
+- 📹 All of my youtube videos are available at [youtube](https://www.youtube.com/channel/UCdxNRY27z-3AWxYpCnF-ohA).
 
-- 💬 Ask me about **Javascript, Flutter**
+- 💬 Ask me about **Javascript, Flutter**.
 
-- 📫 How to reach me **aninarafath786313@.com**
+- 📫 How to reach me **aninarafath786313@.com**.
 
 
 ### A little more about me...  
@@ -32,7 +32,7 @@ const aninArafath = {
   linkedin:'https://www.linkedin.com/in/anin-arafath-32679720a/',
   instagram:'https://www.instagram.com/anin_arafath/',
   gitHub:'https://github.com/aninarafath6',
-  }
+  },
   // contact with me
   contact:{
   email:'aninarafath786313@gmail.com',
