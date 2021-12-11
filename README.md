@@ -23,10 +23,10 @@ const aninArafath = {
   age:16,
   position:'Flutter Developer',
   place:'Malappuram,India',
-  skills: [Flutter, NodeJs, ReactJs, Express, Html5, Css3, NextJs, TailwindCss],
-  tools: [Mac, Linux, Git, Vs Code,Android Studio, GitHub],
+  skills: [Flutter, NodeJs, ReactJs, Express, Html5, Css3, NextJs, TailwindCss,],
+  tools: [Mac, Linux, Git, Vs Code,Android Studio, GitHub,],
   stateManagemets:[Redux,Provider,Getx],
-  architecturs:[mvp,mvvm, mvc],
+  architecturs:[MVP,MVVM, MVC,],
   socialMedia:{
   youtube: 'https://www.youtube.com/channel/UCdxNRY27z-3AWxYpCnF-ohA',
   linkedin:'https://www.linkedin.com/in/anin-arafath-32679720a/',
