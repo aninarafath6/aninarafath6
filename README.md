@@ -2,11 +2,13 @@
 <h3 align="center">Flutter developer</h3>
 	
 
-- 👨‍💻 I'm  +1 student.
+- 👨‍💻 I'm  +1 student/youtuber.
 
-- 🌱 I’m currently learning **clean architecture , bloc, etc.**
+- 🌱 I’m currently learning and teaching flutter
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/aninarafath6?tab=repositories)
+
+- 📹 All of my youtube videos are available at [youtube](https://www.youtube.com/channel/UCdxNRY27z-3AWxYpCnF-ohA)
 
 - 💬 Ask me about **Javascript, Flutter**
 
