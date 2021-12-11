@@ -28,6 +28,7 @@ const aninArafath = {
   stateManagemets:[Redux,Provider,Getx],
   architecturs:[mvp,mvvm, mvc],
   socialMedia:{
+  youtube: [https://www.youtube.com/channel/UCdxNRY27z-3AWxYpCnF-ohA](https://www.youtube.com/channel/UCdxNRY27z-3AWxYpCnF-ohA)
   linkedin:'https://www.linkedin.com/in/anin-arafath-32679720a/',
   instagram:'https://www.instagram.com/anin_arafath/',
   gitHub:'https://github.com/aninarafath6',
