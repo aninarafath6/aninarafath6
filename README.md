@@ -32,11 +32,7 @@ const aninArafath = {
   linkedin:'https://www.linkedin.com/in/anin-arafath-32679720a/',
   instagram:'https://www.instagram.com/anin_arafath/',
   gitHub:'https://github.com/aninarafath6',
-  },
-  // contact with me
-  contact:{
   email:'aninarafath786313@gmail.com',
-  phone:6282062527,
   }
 
 }
