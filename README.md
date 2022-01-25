@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anin Arafath</h1>
-<h3 align="center">Software developers</h3>
+<h3 align="center">Software developer</h3>
 	
 
 - 👨‍💻 I'm  +1 student / youtuber.
