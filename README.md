@@ -54,9 +54,11 @@ const aninArafath = {
 <!-- ![](<a href="https://app.daily.dev/anin"><img src="https://api.daily.dev/devcards/984fb0e0d4eb465ca48c7101b3eca485.png?r=6r7" width="200" alt="Anin Arafath's Dev Card"/></a>) ![](<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aninarafath6&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>) -->
 
 ### 🤝🏻 &nbsp;Connect with Me
+<a href="mailto:aninarafath786313@gmail.com"><img src="https://img.shields.io/badge/-aninarafath786313@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 <p>
-	<a href="https://www.buymeacoffee.com/aninarafath" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50px" alt="Buy Me A Coffee"></a>
-<a href="mailto:aninarafath786313@gmail.com"><img src="https://img.shields.io/badge/-aninarafath786313@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.buymeacoffee.com/aninarafath" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50px" alt="Buy Me A Coffee"></a>
+	
+
 	
 
