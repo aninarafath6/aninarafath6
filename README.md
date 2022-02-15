@@ -56,6 +56,7 @@ const aninArafath = {
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
+	<a href="https://www.buymeacoffee.com/aninarafath" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50px" alt="Buy Me A Coffee"></a>
 <a href="mailto:aninarafath786313@gmail.com"><img src="https://img.shields.io/badge/-aninarafath786313@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 	
 
