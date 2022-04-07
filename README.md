@@ -28,6 +28,7 @@ const aninArafath = {
   stateManagemets:[Redux,Provider,Getx],
   architecturs:[MVP,MVVM, MVC],
   socialMedia:{
+  protfolio:'https://aninarafath.me'
   youtube: 'https://www.youtube.com/channel/UCdxNRY27z-3AWxYpCnF-ohA',
   linkedin:'https://www.linkedin.com/in/anin-arafath-32679720a/',
   instagram:'https://www.instagram.com/anin_arafath/',
@@ -35,7 +36,8 @@ const aninArafath = {
   email:'aninarafath786313@gmail.com',
   }
   
-  // now iam happy to say that 2 years of coding life😇🥰
+  // now i'm happy to say that 2 years of coding life😇🥰.
+  // current status:busy due to +1 examination🫣🤗.
 
 }
 ```
