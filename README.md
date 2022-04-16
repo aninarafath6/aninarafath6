@@ -23,6 +23,10 @@ const aninArafath = {
   age:17,
   position:'Flutter Developer',
   place:'Malappuram,India',
+  experience:{
+  currently:"software developer at INCOM",
+  old:["Technical Supporter at brototype",],
+  },
   skills: [Flutter, NodeJs, ReactJs, Express, Html5, Css3, NextJs, TailwindCss],
   tools: [Mac, Linux, Git, Vs Code,Android Studio, GitHub,],
   stateManagemets:[Redux,Provider,Getx],
