@@ -2,9 +2,11 @@
 <h3 align="center">Software developer</h3>
 	
 
-- 👨‍💻 I'm  +1 student .
+- 💻 Co-Founder & CTO at scool.live .
 
-- 🌱 I’m currently learning flutter.
+- 👨‍💻 I'm  +1 student and Entrepreneur.
+
+- 🌱 I’m currently learning Swift Ui.
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/aninarafath6?tab=repositories).
 
@@ -21,7 +23,7 @@
 const aninArafath = {
   name:'Anin Arafath',
   age:17,
-  position:'Flutter Developer',
+  position:'CTO at scool.live',
   place:'Malappuram,India',
   experience:{
   currently:"software developer at INCOM",
