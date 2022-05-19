@@ -2,7 +2,7 @@
 <h3 align="center">software enginear</h3>
 	
 
-- 💻 Co-Founder & CTO at scool.live .
+- 💻 Co-Founder & CTO at scool.studio .
 
 - 👨‍💻 I'm  +1 student and Entrepreneur.
 
