@@ -37,7 +37,7 @@ const aninArafath = {
   protfolio:'https://aninarafath.me',
   youtube: 'https://www.youtube.com/channel/UCdxNRY27z-3AWxYpCnF-ohA',
   linkedin:'https://www.linkedin.com/in/anin-arafath-32679720a/',
-  instagram:'https://www.instagram.com/anin_arafath/',
+  instagram:'https://www.instagram.com/anin.arafath/',
   gitHub:'https://github.com/aninarafath6',
   email:'aninarafath786313@gmail.com',
   }
