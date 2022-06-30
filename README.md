@@ -32,7 +32,7 @@ const aninArafath = {
   skills: [Swift,SwiftUi,Flutter, NodeJs, ReactJs, Express, Html5, Css3, NextJs, TailwindCss],
   tools: [Mac, Linux, Git, Vs Code,Android Studio, GitHub,],
   stateManagemets:[Redux,Provider,Getx],
-  architecturs:[MVP,MVVM, MVC],
+  architecturs:["MVP","MVVM", "MVC"],
   socialMedia:{
   protfolio:'https://aninarafath.me',
   youtube: 'https://www.youtube.com/channel/UCdxNRY27z-3AWxYpCnF-ohA',
