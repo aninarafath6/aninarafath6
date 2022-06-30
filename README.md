@@ -26,7 +26,8 @@ const aninArafath = {
   position:'CTO at scool.live',
   place:'Malappuram,India',
   experience:{
-  old:["Technical Supporter at brototype","Youtuber (Flutter/Prorgraming)","software developer at INCOM" ],
+  currently:"Software engineer at scool.studio"
+  old:["Technical Supporter at brototype","Youtuber (Flutter/Prorgraming)","Software developer at INCOM" ],
   },
   skills: [Swift,SwiftUi,Flutter, NodeJs, ReactJs, Express, Html5, Css3, NextJs, TailwindCss],
   tools: [Mac, Linux, Git, Vs Code,Android Studio, GitHub,],
