@@ -43,7 +43,7 @@ const aninArafath = {
   }
   
   // now i'm happy to say that 2 years of coding life😇🥰.
-  // current status:busy due to +1 examination🫣🤗.
+  // current status:focus on swift learning stuff🫣🤗.
 
 }
 ```
