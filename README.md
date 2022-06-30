@@ -6,7 +6,7 @@
 
 - 👨‍💻 I'm  +1 student and Entrepreneur.
 
-- 🌱 I’m currently learning Swift Ui.
+- 🌱 I’m currently learning Swift and Swift Ui.
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/aninarafath6?tab=repositories).
 
@@ -27,9 +27,13 @@ const aninArafath = {
   place:'Malappuram,India',
   experience:{
   currently:"software developer at INCOM",
-  old:["Technical Supporter at brototype",],
+  old:
+  [
+    	"Technical Supporter at brototype",
+	"Youtuber (Flutter/Prorgraming)
+  ],
   },
-  skills: [Flutter, NodeJs, ReactJs, Express, Html5, Css3, NextJs, TailwindCss],
+  skills: [Swift,SwiftUi,Flutter, NodeJs, ReactJs, Express, Html5, Css3, NextJs, TailwindCss],
   tools: [Mac, Linux, Git, Vs Code,Android Studio, GitHub,],
   stateManagemets:[Redux,Provider,Getx],
   architecturs:[MVP,MVVM, MVC],
