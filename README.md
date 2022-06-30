@@ -30,7 +30,7 @@ const aninArafath = {
   old:
   [
     	"Technical Supporter at brototype",
-	"Youtuber (Flutter/Prorgraming),
+	"Youtuber (Flutter/Prorgraming),"
   ],
   },
   skills: [Swift,SwiftUi,Flutter, NodeJs, ReactJs, Express, Html5, Css3, NextJs, TailwindCss],
