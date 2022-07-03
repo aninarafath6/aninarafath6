@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **aninarafath786313@.com**.
 
-- 📲 How to reach me **https://www.instagram.com/anin.arafath/**.
+- 📲 How to reach me on [instagram](https://www.instagram.com/anin.arafath/).
 
 
 
