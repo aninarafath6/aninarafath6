@@ -4,7 +4,7 @@
 
 - 💻 Co-Founder & CTO at scool.studio .
 
-- 👨‍💻 I'm  +1 student and Entrepreneur.
+- 👨‍💻 I'm student and Entrepreneur.
 
 - 🌱 I’m currently learning Swift and Swift Ui.
 
