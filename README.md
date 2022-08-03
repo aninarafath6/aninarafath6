@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anin Arafath</h1>
-<h3 align="center">software enginear</h3>
+<h3 align="center">software engineer</h3>
 	
 
 - 💻 Co-Founder & CTO at scool.studio .
