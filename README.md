@@ -48,7 +48,7 @@ const aninArafath = {
   }
   
   // now i'm happy to say that 2 years of coding life😇🥰.
-  // current status:focus on swift learning stuff🫣🤗.
+  // current status:focus on DSA learning stuff🫣🤗.
 
 }
 ```
