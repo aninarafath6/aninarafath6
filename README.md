@@ -6,7 +6,7 @@
 
 - 👨‍💻 I'm student and Entrepreneur.
 
-- 🌱 I’m currently learning Swift and Swift Ui.
+- 🌱 I’m currently Focusing on Competitive Coding.
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/aninarafath6?tab=repositories).
 
