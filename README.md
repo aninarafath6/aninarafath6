@@ -12,7 +12,7 @@
 
 - 📹 All of my youtube videos are available at [youtube](https://www.youtube.com/channel/UCdxNRY27z-3AWxYpCnF-ohA).
 
-- If  you like my work, You can show your [support and buy me a coffee!](https://www.buymeacoffee.com/aninarafath)
+- ❤️ If  you like my work, You can show your [support and buy me a coffee!](https://www.buymeacoffee.com/aninarafath)
 
 - 💬 Ask me about **Javascript, Flutter**.
 
