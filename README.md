@@ -2,8 +2,6 @@
 <h3 align="center">software engineer</h3>
 	
 
-- 💻 Co-Founder & CTO at scool.studio .
-
 - 👨‍💻 I'm student and Entrepreneur.
 
 - 🌱 I’m currently Focusing on Competitive Coding.
