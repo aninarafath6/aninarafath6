@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anin Arafath</h1>
-<h3 align="center">software engineer</h3>
+<h1 align="center">Hi 👋, I'm Anin Arafath</h1><h3 align="center">software engineer</h3>
 	
 
 - 👨‍💻 I'm student and Entrepreneur.
