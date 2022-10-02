@@ -27,13 +27,12 @@
 const aninArafath = {
   name:'Anin Arafath',
   age:17,
-  position:'CTO at scool.live',
   place:'Malappuram,India',
   experience:{
   currently:"Software engineer at scool.studio",
   old:["Technical Supporter at brototype","Youtuber (Flutter/Prorgraming)","Software developer at INCOM" ],
   },
-  skills: [Swift,SwiftUi,Flutter, NodeJs, ReactJs, Express, Html5, Css3, NextJs, TailwindCss],
+  skills: [Flutter, NodeJs, ReactJs, Express, Html5, Css3, NextJs, TailwindCss],
   tools: [Mac, Linux, Git, Vs Code,Android Studio, GitHub,],
   stateManagemets:[Redux,Provider,Getx],
   architecturs:["MVP","MVVM", "MVC"],
