@@ -24,7 +24,7 @@
 
 ### A little more about me...  
 
-```dart
+```javascript
 const aninArafath = {
   name:'Anin Arafath',
   age:17,
