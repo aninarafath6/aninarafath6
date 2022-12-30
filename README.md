@@ -46,8 +46,7 @@ const aninArafath = {
   email:'aninarafath786313@gmail.com',
   }
   
-  // now i'm happy to say that 2 years of coding life😇🥰.
-  // current status:focus on DSA learning stuff🫣🤗.
+  // now i'm happy to say that 4 years of coding life😇🥰.
 
 }
 ```
