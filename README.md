@@ -30,7 +30,7 @@ const aninArafath = {
   age:17,
   place:'Malappuram,India',
   experience:{
-  currently:"Software engineer at scool.studio",
+  currently:"Exploring AI,ML.",
   old:["Technical Supporter at brototype","Youtuber (Flutter/Prorgraming)","Software developer at INCOM" ],
   },
   skills: [Flutter, NodeJs, ReactJs, Express, Html5, Css3, NextJs, TailwindCss],
