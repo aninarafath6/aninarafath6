@@ -3,7 +3,7 @@
 
 - 👨‍💻 I'm student and Entrepreneur.
 
-- 🌱 I’m currently Focusing on Competitive Coding.
+- 🌱 I’m currently Focusing on Machine Learning and Data Science.
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/aninarafath6?tab=repositories).
 
@@ -11,7 +11,7 @@
 
 - ❤️ If  you like my work, You can show your [support and buy me a coffee!](https://www.buymeacoffee.com/aninarafath)
 
-- 💬 Ask me about **Javascript, Flutter**.
+- 💬 Ask me about **Javascript, Flutter , Python**.
 
 - 📫 How to reach me **aninarafath786313@.com**.
 
@@ -33,8 +33,8 @@ const aninArafath = {
   currently:"Exploring AI,ML.",
   old:["Technical Supporter at brototype","Youtuber (Flutter/Prorgraming)","Software developer at INCOM" ],
   },
-  skills: [Flutter, NodeJs, ReactJs, Express, Html5, Css3, NextJs, TailwindCss],
-  tools: [Mac, Linux, Git, Vs Code,Android Studio, GitHub,],
+  skills: [Python,Flutter, NodeJs, ReactJs, Express, Html5, Css3, NextJs, TailwindCss],
+  tools: [Mac, Linux, Git, Vs Code,Google Colab, Jupeter Notebook ,Android Studio, GitHub,],
   stateManagemets:[Redux,Provider,Getx],
   architecturs:["MVP","MVVM", "MVC"],
   socialMedia:{
