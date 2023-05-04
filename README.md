@@ -53,23 +53,6 @@ const aninArafath = {
 ```
 
 
-
-### My Status
-
-
-
-
-<!-- <hr>
-<p align="center">
-
-
-<br><br><br><br><br> -->
-
-<!-- <hr> -->
-
-
-
-
 <details>
 <summary>
   <b>Github Stats</b>
