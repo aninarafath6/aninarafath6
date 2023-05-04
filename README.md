@@ -53,10 +53,10 @@ const aninArafath = {
 ```
 
 
-<!-- <details> -->
-<!-- <summary> -->
+<details>
+<summary>
   <b>Github Stats</b>
-<!-- </summary> -->
+</summary>
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="60" /><b>Git profile Trophies</b></h4></p><br>
 
 <p align="center">
@@ -64,7 +64,7 @@ const aninArafath = {
 <p/>
 	
 
-<!-- </details> -->
+</details>
 
 
 
