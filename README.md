@@ -59,7 +59,7 @@ const aninArafath = {
 <!-- </summary> -->
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="60" /><b>Git profile Trophies</b></h4></p><br>
 
-<p>
+<p align="center"><
 <img src="https://github-profile-trophy.vercel.app/?username=aninarafath6&theme=gruvbox"/>
 <p/>
 	
