@@ -59,16 +59,16 @@ const aninArafath = {
 
 
 
-<hr>
+<!-- <hr>
 <p align="center">
 
 
-<br><br><br><br><br>
+<br><br><br><br><br> -->
 
-<hr>
+<!-- <hr> -->
 
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="60" /><b>Git profile Trophies</b></h4></p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=aninarafath6&theme=gruvbox" />
+<!-- <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="60" /><b>Git profile Trophies</b></h4></p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=aninarafath6&theme=gruvbox" /> -->
 
 
 <details>
@@ -83,8 +83,6 @@ const aninArafath = {
 </details>
 
 
-
-<!-- ![](<a href="https://app.daily.dev/anin"><img src="https://api.daily.dev/devcards/984fb0e0d4eb465ca48c7101b3eca485.png?r=6r7" width="200" alt="Anin Arafath's Dev Card"/></a>) ![](<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aninarafath6&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>) -->
 
 <a href="https://www.buymeacoffee.com/aninarafath" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50px" alt="Buy Me A Coffee"></a>
 	
