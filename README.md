@@ -58,10 +58,10 @@ const aninArafath = {
   <b>Github Stats</b>
 </summary>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=aninarafath6&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" />
-<img src="https://github-profile-trophy.vercel.app/?username=aninarafath6&theme=gruvbox" />
+<img src="https://github-profile-trophy.vercel.app/?username=aninarafath6&theme=gruvbox"/>
 
 	
-<!-- <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="60" /><b>Git profile Trophies</b></h4></p><br> -->
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="60" /><b>Git profile Trophies</b></h4></p><br>
 </details>
 
 
