@@ -67,8 +67,7 @@ const aninArafath = {
 
 <!-- <hr> -->
 
-<!-- <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="60" /><b>Git profile Trophies</b></h4></p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=aninarafath6&theme=gruvbox" /> -->
+
 
 
 <details>
@@ -81,6 +80,10 @@ const aninArafath = {
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aninarafath6&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p> -->
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aninarafath6&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aninarafath6&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p>
+	
+	
+	<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="60" /><b>Git profile Trophies</b></h4></p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=aninarafath6&theme=gruvbox" />
 </details>
 
 
