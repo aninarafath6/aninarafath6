@@ -31,7 +31,7 @@ const aninArafath = {
   place:'Malappuram,India',
   experience:{
   currently:"Exploring AI,ML.",
-  old:["Technical Supporter at brototype","Youtuber (Flutter/Prorgraming)","Software developer at INCOM" ],
+  old:["Technical Supporter at brototype","Youtuber (Flutter/Prorgraming)"],
   },
   skills: [Python,Flutter, NodeJs, ReactJs, Express, Html5, Css3, NextJs, TailwindCss],
   tools: [Mac, Linux, Git, Vs Code,Google Colab, Jupeter Notebook ,Android Studio, GitHub,],
