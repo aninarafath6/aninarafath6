@@ -74,7 +74,6 @@ const aninArafath = {
 <summary>
   <b>Github Stats</b>
 </summary>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aninarafath6&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p>
 	
 	
