@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/aninarafath6?tab=repositories).
 
-- 📹 All of my youtube videos are available at [youtube](https://www.youtube.com/channel/UCdxNRY27z-3AWxYpCnF-ohA).
-
 - ❤️ If  you like my work, You can show your [support and buy me a coffee!](https://www.buymeacoffee.com/aninarafath)
 
 - 💬 Ask me about **Javascript, Flutter , Python**.
@@ -31,9 +29,9 @@ const aninArafath = {
   place:'Malappuram,India',
   experience:{
   currently:"Exploring AI,ML.",
-  old:["Technical Supporter at brototype","Youtuber (Flutter/Prorgraming)"],
+  old:["Software Engineer Intern · ClusterDev","Technical Supporter · brototype"],
   },
-  skills: [Python,Flutter, NodeJs, ReactJs, Express, Html5, Css3, NextJs, TailwindCss],
+  skills: [Kotlin,Java,Python,Flutter, NodeJs, ReactJs, Express, Html5, Css3, NextJs, TailwindCss],
   tools: [Mac, Linux, Git, Vs Code,Google Colab, Jupeter Notebook ,Android Studio, GitHub,],
   stateManagemets:[Redux,Provider,Getx],
   architecturs:["MVP","MVVM", "MVC"],
@@ -45,11 +43,6 @@ const aninArafath = {
   gitHub:'https://github.com/aninarafath6',
   email:'aninarafath786313@gmail.com',
   }
-  
-  // Now i'm happy to say that 4 years of coding life😇🥰.
-  // I will make my 2023 with machine learning 🤖.
-
-}
 
 ```
 
